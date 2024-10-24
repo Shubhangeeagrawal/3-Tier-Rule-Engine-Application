@@ -83,7 +83,7 @@ You can interact with the application using curl or through the web interface.
 **bash**
 3-tier-rule-engine/
 │
-├── app.py                # Main application file
+├── app.py               # Main application file
 ├── rule_engine.py        # Rule engine logic (AST-based)
 ├── config.py             # Configuration for database and environment
 ├── Dockerfile            # Dockerfile for building the web server image
