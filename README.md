@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## Setup Instructions
 ### Step 1: Clone the Repository
 **bash**
-git clone https://github.com/Shubhangeeagrawal/3-tier-rule-engine.git
+https://github.com/Shubhangeeagrawal/3-Tier-Rule-Engine-Application
 cd 3-tier-rule-engine
 
 ### Step 2: Build and Run the Application
