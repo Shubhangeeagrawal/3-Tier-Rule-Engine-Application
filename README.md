@@ -41,7 +41,6 @@ pip install -r requirements.txt
 ### Step 1: Clone the Repository
 **bash**
 https://github.com/Shubhangeeagrawal/3-Tier-Rule-Engine-Application
-cd 3-tier-rule-engine
 
 ### Step 2: Build and Run the Application
 You can set up the required services using Docker containers. The project includes a Docker Compose file to handle the web server and database.
